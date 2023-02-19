@@ -528,28 +528,52 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
+.skills__python {
   width: 60%;
 }
 
-.skills__css{
-  width: 50%;
+.skills__git {
+  width: 60%;
 }
 
-.skills__js{
+.skills__cpp{
+  width: 40%;
+}
+
+.skills__csharp{
   width: 30%;
 }
 
-.skills__vue{
-  width: 10%;
+.skills__matlab{
+  width: 20%;
 }
 
-.skills__java{
+.skills__arcgis{
   width: 70%;
 }
 
-.skills__python{
+.skills__qgis{
   width: 50%;
+}
+
+.skills__envi{
+  width: 40%;
+}
+
+.skills__su{
+  width: 60%;
+}
+
+.skills__rhino{
+  width: 50%;
+}
+
+.skills__ps{
+  width: 70%;
+}
+
+.skills__ps{
+  width: 30%;
 }
 
 .skills__close .skills__list {

@@ -42,7 +42,7 @@
     "portfolio__title":"项目集",
     "portfolio__subtitle":"近期参与项目",
     "portfolio1__title":"PaddleRS",
-    "portfolio1__description":"飞桨高性能、多任务遥感影像智能解译开发套件，端到端完成从数据到部署的全流程遥感应用。",
+    "portfolio1__description":"飞桨高性能、多任务遥感影像智能解译开发套件。",
     "portfolio2__title":"EISeg",
     "portfolio2__description":"飞桨高效交互式分割标注工具。",
     "portfolio3__title":"LabCD",

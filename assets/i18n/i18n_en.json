@@ -42,7 +42,7 @@
     "portfolio__title":"Portfolio",
     "portfolio__subtitle":"Most recently participated works",
     "portfolio1__title":"PaddleRS",
-    "portfolio1__description":"A High-Performance Multi-Task Remote Sensing Toolkit Based on PaddlePaddle, Designed for End-to-End Development of Deep Learning Applications in Remote Sensing.",
+    "portfolio1__description":"A High-Performance Multi-Task Remote Sensing Toolkit Based on PaddlePaddle.",
     "portfolio2__title":"EISeg",
     "portfolio2__description":"An Efficient Interactive Segmentation Tool based on PaddlePaddle.",
     "portfolio3__title":"LabCD",

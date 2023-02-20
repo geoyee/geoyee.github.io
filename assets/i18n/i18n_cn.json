@@ -45,6 +45,7 @@
 
     "portfolio__title":"项目集",
     "portfolio__subtitle":"近期参与项目",
+    "portfolio__link":"链接",
     "portfolio1__title":"PaddleRS",
     "portfolio1__description":"飞桨高性能、多任务遥感影像智能解译开发套件。",
     "portfolio2__title":"EISeg",
@@ -59,6 +60,6 @@
     "email":"电子邮箱",
     "email__address":"geoyee@yeah.com",
     "location":"位置",
-    "location__detail":"中国成都"
-    
+    "location__detail":"中国成都",
+    "name__end":"陈奕州"
 }

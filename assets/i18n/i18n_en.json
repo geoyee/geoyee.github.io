@@ -45,6 +45,7 @@
 
     "portfolio__title":"Portfolio",
     "portfolio__subtitle":"Most recently participated works",
+    "portfolio__link":"Link",
     "portfolio1__title":"PaddleRS",
     "portfolio1__description":"A High-Performance Multi-Task Remote Sensing Toolkit Based on PaddlePaddle.",
     "portfolio2__title":"EISeg",
@@ -59,5 +60,6 @@
     "email":"E-mail",
     "email__address":"geoyee@yeah.com",
     "location":"Location",
-    "location__detail":"ChengDu , CHN"
+    "location__detail":"ChengDu , CHN",
+    "name__end":"GEOYEE"
 }

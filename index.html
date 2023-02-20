@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,7 +11,6 @@
     />
     <!--==================== SWIPER CSS ====================-->
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
-
     <!--==================== CSS ====================-->
     <link rel="stylesheet" href="assets/css/styles.css" />
     <!-- iconfont font class 方式引用图标 -->
@@ -20,13 +19,13 @@
       href="https://at.alicdn.com/t/c/font_3900458_82z46p85im.css"
     /> -->
 
-    <title>Home Page | GEOYEE</title>
+    <title i18n="title">Homepage | GEOYEE</title>
   </head>
   <body>
     <!--==================== HEADER ====================-->
     <header class="header scroll-header" id="header">
       <nav class="nav container">
-        <a href="#" class="nav__logo">GEOYEE</a>
+        <a href="#" class="nav__logo" i18n="navigation__title">Navigation</a>
 
         <div class="nav__menu" id="nav-menu">
           <ul class="nav__list grid">
@@ -251,33 +250,27 @@
 
           <div class="about__data">
             <p class="about__description" i18n="about__description">
-              Baidu's PPDE, mainly engaged in remote sensing algorithms and applications, 
+              Baidu's PPDE and member of PPSIG, mainly engaged in remote sensing algorithms and applications, 
               focusing on the combination of remote sensing and deep learning.
             </p>
 
             <div class="about__info">
               <div>
-                <span class="about__info-title">00+</span>
-                <span class="about__info-name" i18n="about__info-name1"
-                  >Years of <br/>
-                  experience</span
-                >
+                <span class="about__info-title">10+</span>
+                <span class="about__info-name" i18n="about__info-name1">
+                  Winning <br/> contests</span>
+              </div>
+
+              <div>
+                <span class="about__info-title">06+</span>
+                <span class="about__info-name" i18n="about__info-name2">
+                  Involved <br/> projects</span>
               </div>
 
               <div>
                 <span class="about__info-title">00+</span>
-                <span class="about__info-name" i18n="about__info-name2"
-                  >Completed <br/>
-                  projects</span
-                >
-              </div>
-
-              <div>
-                <span class="about__info-title">00+</span>
-                <span class="about__info-name" i18n="about__info-name3"
-                  >Companies <br/>
-                  worked</span
-                >
+                <span class="about__info-name" i18n="about__info-name3">
+                  Years of <br/> experience</span>
               </div>
             </div>
 
@@ -325,7 +318,7 @@
                 <div class="skills__data">
                   <div class="skills__titles">
                     <h3 class="skills__name">Python</h3>
-                    <span class="skills__number">60%</span>
+                    <span class="skills__number">70%</span>
                   </div>
                   <div class="skills__bar">
                     <div class="skills__percentage skills__python"></div>
@@ -345,7 +338,7 @@
                 <div class="skills__data">
                   <div class="skills__titles">
                     <h3 class="skills__name">C++</h3>
-                    <span class="skills__number">40%</span>
+                    <span class="skills__number">50%</span>
                   </div>
                   <div class="skills__bar">
                     <div class="skills__percentage skills__cpp"></div>
@@ -355,7 +348,7 @@
                 <div class="skills__data">
                   <div class="skills__titles">
                     <h3 class="skills__name">C#</h3>
-                    <span class="skills__number">40%</span>
+                    <span class="skills__number">50%</span>
                   </div>
                   <div class="skills__bar">
                     <div class="skills__percentage skills__csharp"></div>
@@ -365,7 +358,7 @@
                 <div class="skills__data">
                   <div class="skills__titles">
                     <h3 class="skills__name">MATLAB</h3>
-                    <span class="skills__number">20%</span>
+                    <span class="skills__number">40%</span>
                   </div>
                   <div class="skills__bar">
                     <div class="skills__percentage skills__matlab"></div>
@@ -404,7 +397,7 @@
                 <div class="skills__data">
                   <div class="skills__titles">
                     <h3 class="skills__name">QGIS</h3>
-                    <span class="skills__number">50%</span>
+                    <span class="skills__number">60%</span>
                   </div>
                   <div class="skills__bar">
                     <div class="skills__percentage skills__qgis"></div>
@@ -414,10 +407,20 @@
                 <div class="skills__data">
                   <div class="skills__titles">
                     <h3 class="skills__name">ENVI</h3>
-                    <span class="skills__number">40%</span>
+                    <span class="skills__number">50%</span>
                   </div>
                   <div class="skills__bar">
                     <div class="skills__percentage skills__envi"></div>
+                  </div>
+                </div>
+
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">SuperMap</h3>
+                    <span class="skills__number">30%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <div class="skills__percentage skills__smap"></div>
                   </div>
                 </div>
               </div>
@@ -459,12 +462,22 @@
                     <div class="skills__percentage skills__rhino"></div>
                   </div>
                 </div>
+
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">SolidWorks</h3>
+                    <span class="skills__number">40%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <div class="skills__percentage skills__sw"></div>
+                  </div>
+                </div>
               </div>
             </div>
             <!--==================== SKILLS 4 ====================-->
             <div class="skills__content skills__close">
               <div class="skills__header">
-                <i class="uil uil-image skills__icon"></i>
+                <i class="uil uil-adobe skills__icon"></i>
 
                 <div>
                   <h1 class="skills__title" i18n="skills__title4">
@@ -616,7 +629,7 @@
                   <span
                     class="qualification__subtitle"
                     i18n="qualification4__subtitle"
-                    >JOUAV Automation Tech</span
+                    >Chengdu JOUAV Automation Tech Co.,Ltd.</span
                   >
                   <div class="qualification__calendar">
                     <i class="uil uil-calendar-alt"></i>

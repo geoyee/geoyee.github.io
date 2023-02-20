@@ -529,7 +529,7 @@ img {
 }
 
 .skills__python {
-  width: 60%;
+  width: 70%;
 }
 
 .skills__git {
@@ -537,15 +537,15 @@ img {
 }
 
 .skills__cpp{
-  width: 40%;
+  width: 50%;
 }
 
 .skills__csharp{
-  width: 40%;
+  width: 50%;
 }
 
 .skills__matlab{
-  width: 20%;
+  width: 40%;
 }
 
 .skills__arcgis{
@@ -553,11 +553,15 @@ img {
 }
 
 .skills__qgis{
-  width: 50%;
+  width: 60%;
 }
 
 .skills__envi{
-  width: 40%;
+  width: 50%;
+}
+
+.skills__smap{
+  width: 30%;
 }
 
 .skills__su{
@@ -566,6 +570,10 @@ img {
 
 .skills__rhino{
   width: 50%;
+}
+
+.skills__sw{
+  width: 40%;
 }
 
 .skills__ps{

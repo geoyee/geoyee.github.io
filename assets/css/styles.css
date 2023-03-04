@@ -544,7 +544,7 @@ img {
   width: 50%;
 }
 
-.skills__matlab{
+.skills__docker{
   width: 40%;
 }
 
@@ -558,10 +558,6 @@ img {
 
 .skills__envi{
   width: 50%;
-}
-
-.skills__smap{
-  width: 30%;
 }
 
 .skills__su{
@@ -581,6 +577,10 @@ img {
 }
 
 .skills__pr{
+  width: 30%;
+}
+
+.skills__ai{
   width: 30%;
 }
 

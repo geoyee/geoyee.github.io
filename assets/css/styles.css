@@ -352,6 +352,7 @@ img {
   font-weight: var(--font-light);
   font-style: italic;
   margin-bottom: var(--mb-2);
+  color: var(--text-color);
 }
 
 .home__scroll-button {

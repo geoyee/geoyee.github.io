@@ -662,9 +662,13 @@ img {
   color: var(--first-color-lighter);
 }
 
+.footer__space {
+  float: left;
+  margin-right: var(--mb-1-5);
+}
+
 .footer__social {
   font-size: 1.15rem;
-  margin-right: var(--mb-1-5);
 }
 
 .footer__social:hover {
@@ -939,6 +943,7 @@ img {
     }
 
     .footer__socials {
+      display: flex;
       justify-self: flex-end;
     }
 

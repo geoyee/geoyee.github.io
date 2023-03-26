@@ -11,11 +11,7 @@
     "home__contact":"与我联系",
 
     "skills__title":"技能",
-    "skills__subtitle":"我的技术水平",
-    "skills__title1":"开发",
-    "skills__title2":"多媒体",
-    "skills__title3":"其他",
-    "skills__introduction3":"除此之外，还能使用ArcGIS、ENVI等软件进行地学分析和遥感图像处理，以及使用SketchUp、SolidWorks等进行三维建模。",
+    "skills__introduction":"* 一些图标，像是ArcGIS、ENVI、SketchUp以及SolidWorks等等，由于没有svg图标，我正在制作并向<a href=\"https://github.com/simple-icons/simple-icons\">simple-icons</a>贡献。PaddlePaddle和GDAL的图标也是我贡献的。",
 
     "portfolio__title":"项目集",
     "portfolio__subtitle":"近期参与项目",

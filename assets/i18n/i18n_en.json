@@ -11,11 +11,7 @@
     "home__contact":"Contact Me",
     
     "skills__title":"Skills",
-    "skills__subtitle":"My technical level",
-    "skills__title1":"Things I code with",
-    "skills__title2":"Multimedia",
-    "skills__title3":"Other",
-    "skills__introduction3":"In addition, geospatial analysis and remote sensing image processing can also be carried out using software such as ArcGIS and ENVI, as well as three-dimensional modeling using SketchUp, SolidWorks, and others.",
+    "skills__introduction":"* Some icons, such as ArcGIS, ENVI, SketchUp, and SolidWorks, do not have SVG icons. I am currently creating and contributing them to <a href=\"https://github.com/simple-icons/simple-icons\">simple-icons</a>. The icons for PaddlePaddle and GDAL are also contributed by me.",
 
     "portfolio__title":"Portfolio",
     "portfolio__subtitle":"Most recently participated works",

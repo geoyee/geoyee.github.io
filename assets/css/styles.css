@@ -1,9 +1,9 @@
-/*==================== GOOGLE FONTS 字体====================*/
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+/*==================== Font ====================*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"); /* 默认字体 */
 
 @font-face {
   font-family: DingTalk_JinBuTi;
-  src: url("assets/font/DingTalk JinBuTi.ttf");
+  src: url("assets/font/DingTalk%20JinBuTi.ttf");
 }
 
 /*==================== VARIABLES CSS ====================*/

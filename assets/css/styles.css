@@ -1,6 +1,11 @@
 /*==================== GOOGLE FONTS 字体====================*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
+@font-face {
+  font-family: DingTalk_JinBuTi;
+  src: url("assets/font/DingTalk JinBuTi.ttf");
+}
+
 /*==================== VARIABLES CSS ====================*/
 :root {
   --header-height: 3rem;
@@ -24,7 +29,8 @@
   --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
 
   /*========== Font and typography ==========*/
-  --body-font: "Poppins", sans-serif;
+  /* --body-font: "Poppins", sans-serif; */
+  --body-font: DingTalk_JinBuTi, sans-serif;
 
   /* .5rem = 8px, 1rem = 16px, 1.5rem = 24px ... */
   --big-font-size: 2rem;
@@ -338,7 +344,7 @@ img {
 }
 
 .home__description {
-  margin-bottom: var(--mb-0-5);
+  margin-bottom: var(--mb-1-5);
 }
 
 .ppde__description {
@@ -471,6 +477,7 @@ img {
   font-size: var(--small-font-size);
   font-weight: var(--font-light);
   font-style: italic;
+  color: var(--text-color);
 }
 
 .skills__bar,

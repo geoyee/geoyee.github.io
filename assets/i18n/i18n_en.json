@@ -8,11 +8,11 @@
     "home__title":"Hi, I'm YiZhou Chen",
     "home__subtitle":"RS Algorithm Engineer & PPDE*",
     "home__description":"Passionate about open source, dedicated to working in the fields of remote sensing and deep learning, and firmly believe that technology has the potential to make our lives better.",
-    "ppde__description": "* PaddlePaddle Developers Experts",
+    "ppde__description": "*PaddlePaddle Developers Experts",
     "home__contact":"Contact Me",
     
     "skills__title":"Skills",
-    "skills__introduction":"* Some softwares, such as ArcGIS, ENVI, SketchUp and SolidWorks, do not have SVG icons. I am currently creating and contributing them to <a href=\"https://github.com/simple-icons/simple-icons\" target=\"_blank\">simple-icons</a>. The icons for PaddlePaddle and GDAL are also contributed by me.",
+    "skills__introduction":"*Some softwares, such as ArcGIS, ENVI, SketchUp and SolidWorks, do not have SVG icons. I am currently creating and contributing them to <a class=\"skills__intr\" href=\"https://github.com/simple-icons/simple-icons\" target=\"_blank\">simple-icons</a>. The icons for PaddlePaddle and GDAL are also contributed by me.",
 
     "portfolio__title":"Portfolio",
     "portfolio__subtitle":"Most recently participated works",
@@ -26,7 +26,7 @@
     
     "contact__title":"Contact me",
     "company":"Company",
-    "company__name":"<a href=\"https://www.jouav.com/\" target=\"_blank\">JOUAV Automation Tech Co.,Ltd.</a>",
+    "company__name":"<a class=\"contact__subtitle\" href=\"https://www.jouav.com/\" target=\"_blank\">JOUAV Automation Tech Co.,Ltd.</a>",
     "email":"E-mail",
     "email__address":"geoyee@yeah.com",
     "location":"Location",

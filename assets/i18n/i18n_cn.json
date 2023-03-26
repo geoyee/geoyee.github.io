@@ -6,8 +6,9 @@
     "portfolio":"项目集",
     "contact":"联系方式",
     "home__title":"嗨，我是陈奕州",
-    "home__subtitle":"- 遥感算法工程师<br/>- 飞桨开发者技术专家<br/>- 开源开发者",
-    "home__description":"目前就职于成都纵横自动化，热爱开源，致力于遥感与深度学习方面的工作，相信技术能够使生活变得更美好。",
+    "home__subtitle":"- 遥感算法工程师 & PPDE*",
+    "home__description":"热爱开源，致力于遥感与深度学习方面的工作，相信技术能够使生活变得更美好。",
+    "ppde__description": "* 飞桨开发者技术专家",
     "home__contact":"与我联系",
 
     "skills__title":"技能",

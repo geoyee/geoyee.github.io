@@ -338,12 +338,15 @@ img {
 }
 
 .home__description {
-  margin-bottom: var(--mb-2);
+  margin-bottom: var(--mb-0-5);
 }
 
-/* .home__scroll {
-  display: none;
-} */
+.ppde__description {
+  font-size: var(--small-font-size);
+  font-weight: var(--font-light);
+  font-style: italic;
+  margin-bottom: var(--mb-2);
+}
 
 .home__scroll-button {
   color: var(--first-color);

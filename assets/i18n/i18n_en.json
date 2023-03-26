@@ -6,8 +6,9 @@
     "portfolio":"Portfolio",
     "contact":"Contact",
     "home__title":"Hi, I'm YiZhou Chen",
-    "home__subtitle":"- RS Algorithm Engineer<br/>- PaddlePaddle Developers Experts<br/>- Open Source Developer",
-    "home__description":"Currently employed at JOUAV Automation Tech, ChengDu. Passionate about open source, dedicated to working in the fields of remote sensing and deep learning, and firmly believe that technology has the potential to make our lives better.",
+    "home__subtitle":"RS Algorithm Engineer & PPDE*",
+    "home__description":"Passionate about open source, dedicated to working in the fields of remote sensing and deep learning, and firmly believe that technology has the potential to make our lives better.",
+    "ppde__description": "* PaddlePaddle Developers Experts",
     "home__contact":"Contact Me",
     
     "skills__title":"Skills",

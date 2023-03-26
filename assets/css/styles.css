@@ -155,7 +155,7 @@ img {
 
 /*==================== LAYOUT ====================*/
 .container {
-  max-width: 768px;
+  max-width: 1068px;
   margin-left: var(--mb-1-5);
   margin-right: var(--mb-1-5);
 }
@@ -176,7 +176,7 @@ img {
 
 /*==================== NAV ====================*/
 .nav {
-  max-width: 968px;
+  max-width: 1068px;
   height: var(--header-height);
   display: flex;
   justify-content: space-between;
@@ -203,7 +203,7 @@ img {
 }
 
 /*mobile devices*/
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .nav__menu {
     position: fixed;
     bottom: -100%;
@@ -567,9 +567,15 @@ img {
   row-gap: 1rem;
 }
 
-.contact__list {
+.contact__vlist {
+  display: flex; /* 将容器设置为flex布局 */
+  flex-direction: column; /* 将主轴设置为垂直方向 */
+}
+
+.contact__hlist {
   display: flex;
   justify-content: space-between; /* 让左右两个 div 之间间隔相等 */
+  width: 100%;
 }
 
 .contact__information {

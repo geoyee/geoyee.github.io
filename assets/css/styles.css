@@ -1,6 +1,4 @@
 /*==================== Font ====================*/
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"); /* 默认字体 */
-
 @font-face {
   font-family: DingTalk_JinBuTi;
   src: url("/assets/font/DingTalk_JinBuTi.ttf");
@@ -12,7 +10,7 @@
 
   /*========== Colors 主题色彩==========*/
   /* Change favorite color */
-  --hue-color: 250; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
+  --hue-color: 250; /* Purple 250 - Green 142 - Blue 230 - Pink 340 */
 
   /* HSL color mode */
   --first-color: hsl(var(--hue-color), 69%, 61%);
@@ -79,7 +77,7 @@
 /*========== Variables Dark theme ==========*/
 body.dark-theme {
   /* HSL color mode */
-  --first-color-second: hsl(var(--hue-color), 30%, 8%);
+  --first-color-second: hsl(var(--hue-color), 69%, 61%);
   --title-color: hsl(var(--hue-color), 8%, 95%);
   --text-color: hsl(var(--hue-color), 8%, 45%);
   --text-color-light: hsl(var(--hue-color), 8%, 75%);

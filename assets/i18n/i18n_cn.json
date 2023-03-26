@@ -12,10 +12,11 @@
     "home__contact":"与我联系",
 
     "skills__title":"技能",
+    "skills__subtitle":"我能够使用的一些工具",
     "skills__introduction":"*像是ArcGIS、ENVI、SketchUp以及SolidWorks等等一些软件，由于没有svg图标，我正在制作并向<a class=\"skills__intr\" href=\"https://github.com/simple-icons/simple-icons\">simple-icons</a>贡献。PaddlePaddle和GDAL的图标也是我贡献的。",
 
     "portfolio__title":"项目集",
-    "portfolio__subtitle":"近期参与项目",
+    "portfolio__subtitle":"我近期参与的一些项目",
     "portfolio__link":"链接",
     "portfolio1__title":"PaddleRS",
     "portfolio1__description":"飞桨高性能、多任务遥感影像智能解译开发套件。",
@@ -25,6 +26,7 @@
     "portfolio3__description":"遥感变化检测标注工具。",
 
     "contact__title":"联系方式",
+    "contact__subtitle":"欢迎与我联系",
     "company":"公司",
     "company__name":"<a class=\"contact__subtitle\" href=\"https://www.jouav.com/zh/\" target=\"_blank\">纵横自动化技术股份有限公司</a>",
     "email":"电子邮箱",

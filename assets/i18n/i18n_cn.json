@@ -24,11 +24,13 @@
     "portfolio3__description":"遥感变化检测标注工具。",
 
     "contact__title":"联系方式",
-    "contact__subtitle":"与我联系",
+    "company":"公司",
+    "company__name":"纵横自动化技术股份有限公司",
     "email":"电子邮箱",
     "email__address":"geoyee@yeah.com",
     "location":"位置",
     "location__detail":"中国成都",
+    "timezone":"时区",
     "name__end":"GEOYEE",
     "home__end":"热爱生活"
 }

@@ -24,11 +24,13 @@
     "portfolio3__description":"Remote sensing change detection annotation tool.",
     
     "contact__title":"Contact me",
-    "contact__subtitle":"Get in touch",
+    "company":"Company",
+    "company__name":"JOUAV Automation Tech Co.,Ltd.",
     "email":"E-mail",
     "email__address":"geoyee@yeah.com",
     "location":"Location",
     "location__detail":"ChengDu , CHN",
+    "timezone":"Time Zone",
     "name__end":"GEOYEE",
     "home__end":"Love Your Life"
 }

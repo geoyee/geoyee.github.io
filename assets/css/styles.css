@@ -561,11 +561,17 @@ img {
 
 /*==================== CONTACT ME ====================*/
 .contact__container {
-  row-gap: 3rem;
+  row-gap: 1rem;
+}
+
+.contact__list {
+  display: flex;
+  justify-content: space-between; /* 让左右两个 div 之间间隔相等 */
 }
 
 .contact__information {
   display: flex;
+  width: 50%;
   margin-bottom: var(--mb-2);
 }
 

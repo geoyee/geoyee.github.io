@@ -1,6 +1,10 @@
 $(document).ready(function () {
     /*默认语言*/
+    var naviLang = navigator.language || navigator.userLanguage;
     var defaultLang = "en";
+    if (naviLang.substr(0, 3) == "zh-") {
+        defaultLang = "cn";
+    }
     $("[i18n]").i18n({
         defaultLang: defaultLang,
         filePath: "/assets/i18n/",  //路径配置

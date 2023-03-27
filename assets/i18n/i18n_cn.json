@@ -13,7 +13,7 @@
 
     "skills__title":"技能",
     "skills__subtitle":"我能够使用的一些工具",
-    "skills__introduction":"*像是ArcGIS以及ENVI等一些软件，由于没有svg图标，我正在制作并向<a class=\"skills__intr\" href=\"https://github.com/simple-icons/simple-icons\">simple-icons</a>贡献。PaddlePaddle、GDAL以及SolidWorks的图标也是我贡献的。",
+    "skills__introduction":"*一些图标在<a class=\"skills__intr\" href=\"https://github.com/simple-icons/simple-icons\">simple-icons</a>中没找到，我正在向其贡献。顺便一说，不是所有上面列出的我都很熟练。",
 
     "portfolio__title":"项目集",
     "portfolio__subtitle":"我近期参与的一些项目",

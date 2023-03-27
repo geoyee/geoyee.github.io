@@ -145,6 +145,10 @@ img {
   height: auto;
 }
 
+button-color {
+  color: #ffff;
+}
+
 /*==================== REUSABLE CSS CLASSES ====================*/
 .section {
   padding: 2rem 0 4rem;

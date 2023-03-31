@@ -56,6 +56,7 @@ $.get(mapUrl, function (chnjson) {
                     { name: '青海省', value: 1 },
                     { name: '宁夏回族自治区', value: 0 },
                     { name: '新疆维吾尔自治区', value: 0 },
+                    { name: '台湾省', value: 0 },
                     { name: '香港特别行政区', value: 0 },
                     { name: '澳门特别行政区', value: 0 }
                 ]

@@ -4,6 +4,7 @@
     "home":"主页",
     "skills":"技能",
     "portfolio":"项目集",
+    "map":"足迹",
     "contact":"联系方式",
     "home__title":"嗨，我是陈奕州",
     "home__subtitle":"遥感算法工程师 & PPDE*",
@@ -24,6 +25,9 @@
     "portfolio2__description":"飞桨高效交互式分割标注工具。",
     "portfolio3__title":"LabCD",
     "portfolio3__description":"遥感变化检测标注工具。",
+
+    "map__title":"足迹",
+    "map__subtitle":"目标游遍中国",
 
     "contact__title":"联系方式",
     "contact__subtitle":"欢迎与我联系",

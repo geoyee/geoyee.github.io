@@ -4,6 +4,7 @@
     "home":"Home",
     "skills":"Skills",
     "portfolio":"Portfolio",
+    "map":"Footmark",
     "contact":"Contact",
     "home__title":"Hi, I'm YiZhou Chen",
     "home__subtitle":"RS Algorithm Engineer & PPDE*",
@@ -24,6 +25,9 @@
     "portfolio2__description":"An Efficient Interactive Segmentation Tool based on PaddlePaddle.",
     "portfolio3__title":"LabCD",
     "portfolio3__description":"Remote sensing change detection annotation tool.",
+
+    "map__title":"Footmark",
+    "map__subtitle":"The goal is to travel all over China",
     
     "contact__title":"Contact me",
     "contact__subtitle":"Welcome to contact with me",

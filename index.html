@@ -13,7 +13,11 @@
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
     <!--==================== CSS ====================-->
     <link rel="stylesheet" href="assets/css/styles.css" />
-    <!-- iconfont font class 方式引用图标 -->
+    <!-- echarts JS -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.2/dist/echarts.min.js"></script>
+    <!-- jquery -->
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="assets/js/jquery.i18n.min.js"></script>
     <title i18n="title">Homepage</title>
   </head>
   <body>
@@ -40,6 +44,12 @@
               <a href="#portfolio" class="nav__link">
                 <i class="uil uil-scenery nav__icon"></i>
                 <p i18n="portfolio">Portfolio</p>
+              </a>
+            </li>
+            <li class="nav__item">
+              <a href="#map" class="nav__link">
+                <i class="uil uil-map nav__icon"></i>
+                <p i18n="map">Footmark</p>
               </a>
             </li>
             <li class="nav__item">
@@ -279,6 +289,16 @@
           <div class="swiper-pagination"></div>
         </div>
       </section>
+      <!-- ==================== Map ==================== -->
+      <section class="contact section" id="map">
+        <h2 class="section__title" i18n="map__title">Footmark</h2>
+        <span class="section__subtitle" i18n="map__subtitle">
+          The goal is to travel all over China
+        </span>
+        <div id="chmap" class="container" style="height:400px;">
+          <script type="text/javascript", src="assets/js/map.js"></script>
+        </div>
+      </section>
       <!--==================== CONTACT ME ====================-->
       <section class="contact section" id="contact">
         <h2 class="section__title" i18n="contact__title">Contact me</h2>
@@ -398,9 +418,6 @@
     <script src="assets/js/swiper-bundle.min.js"></script>
     <!-- iconfont JS -->
     <script src="assets/js/iconfont.js"></script>
-    <!-- jquery -->
-    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script src="assets/js/jquery.i18n.min.js"></script>
     <!--==================== MAIN JS ====================-->
     <script src="assets/js/main.js"></script>
     <!-- translate JS -->

@@ -14,7 +14,7 @@ $.get(mapUrl, function (chnjson) {
             inRange: {
                 color: [
                     '#FFFFFF',
-                    '#313695'
+                    '#6E57E0'
                 ]
             }
         },
@@ -39,7 +39,7 @@ $.get(mapUrl, function (chnjson) {
                     { name: '安徽省', value: 0 },
                     { name: '福建省', value: 1 },
                     { name: '江西省', value: 0 },
-                    { name: '山东省', value: 0 },
+                    { name: '山东省', value: 1 },
                     { name: '河南省', value: 0 },
                     { name: '湖北省', value: 1 },
                     { name: '湖南省', value: 1 },

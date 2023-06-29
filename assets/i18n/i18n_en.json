@@ -7,17 +7,16 @@
     "map":"Footmark",
     "contact":"Contact",
     "home__title":"Hi, I'm YiZhou Chen",
-    "home__subtitle":"RS Algorithm Engineer & PPDE*",
+    "home__subtitle":"RS Algorithm Engineer",
     "home__description":"Love to travel and passionate about open source, dedicated to working in the fields of remote sensing and deep learning, and firmly believe that technology has the potential to make our lives better.",
     "ppde__description": "*PaddlePaddle Developers Experts",
     "home__contact":"Contact Me",
     
     "skills__title":"Skills",
-    "skills__subtitle":"Some tools that I can use",
-    "skills__introduction":"*Some icons were not found in <a class=\"skills__intr\" href=\"https://github.com/simple-icons/simple-icons\" target=\"_blank\">simple-icons</a> and I am contributing to it. By the way, not everything listed is familiar.",
-
+    "skills__subtitle":"Development Tools & Professional Software",
+    
     "portfolio__title":"Portfolio",
-    "portfolio__subtitle":"Some projects that I have recently participated in",
+    "portfolio__subtitle":"Some projects that are ongoing or involved in",
     "portfolio__link":"Link",
     "portfolio1__title":"PaddleRS",
     "portfolio1__description":"A High-Performance Multi-Task Remote Sensing Toolkit Based on PaddlePaddle.",

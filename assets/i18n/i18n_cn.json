@@ -7,17 +7,16 @@
     "map":"足迹",
     "contact":"联系方式",
     "home__title":"嗨，我是陈奕州",
-    "home__subtitle":"遥感算法工程师 & PPDE*",
+    "home__subtitle":"遥感算法工程师",
     "home__description":"喜欢旅行，热爱开源，致力于遥感与深度学习方面的工作，相信技术能够使生活变得更美好。",
     "ppde__description": "*<a class=\"ppde__description\" href=\"https://www.paddlepaddle.org.cn/ppde\" target=\"_blank\">飞桨开发者技术专家</a>",
     "home__contact":"与我联系",
 
     "skills__title":"技能",
-    "skills__subtitle":"我能够使用的一些工具",
-    "skills__introduction":"*一些图标在<a class=\"skills__intr\" href=\"https://github.com/simple-icons/simple-icons\">simple-icons</a>中没找到，我正在向其贡献。顺便一说，不是所有上面列出的我都很熟练。",
-
+    "skills__subtitle":"开发工具 & 专业软件",
+    
     "portfolio__title":"项目集",
-    "portfolio__subtitle":"我近期参与的一些项目",
+    "portfolio__subtitle":"正在进行或参与过的一些项目",
     "portfolio__link":"链接",
     "portfolio1__title":"PaddleRS",
     "portfolio1__description":"飞桨高性能、多任务遥感影像智能解译开发套件。",

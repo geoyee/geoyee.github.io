@@ -44,7 +44,7 @@ $.get(mapUrl, function (chnjson) {
                     { name: '湖北省', value: 1 },
                     { name: '湖南省', value: 1 },
                     { name: '广东省', value: 0 },
-                    { name: '广西壮族自治区', value: 0 },
+                    { name: '广西壮族自治区', value: 1 },
                     { name: '海南省', value: 0 },
                     { name: '重庆市', value: 1 },
                     { name: '四川省', value: 1 },
